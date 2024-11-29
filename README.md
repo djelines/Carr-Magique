@@ -1,13 +1,19 @@
-# Carré-Magique / Magic Square  
+# Carré-Magique / Magic Square
 
-### 🇫🇷 Français  
-Un programme Python pour générer un **Carré Magique** : une grille où la somme des nombres dans chaque rangée, colonne et diagonale est égale.  
-- **Taille personnalisable** : choisissez des grilles 3x3, 4x4, etc.  
-- **Solution automatique** : suivez le processus pas à pas ou affichez directement la solution.  
+## 🌟 FR - Description
+Le **Carré Magique** en Python est une simulation d'un puzzle mathématique captivant. Ce programme génère automatiquement un carré magique où la somme des chiffres de chaque rangée, colonne et diagonale est égale.  
+✨ **Caractéristiques** : 
+- Choix de la taille du carré (ex : 3x3, 4x4).  
+- Génération automatique avec affichage pas à pas.  
+- Idéal pour stimuler l'esprit et découvrir la logique des carrés magiques.
 
-### 🇬🇧 English  
-A Python program to generate a **Magic Square**: a grid where the sum of numbers in each row, column, and diagonal is equal.  
-- **Customizable size**: choose grids like 3x3, 4x4, etc.  
-- **Automatic solution**: watch the step-by-step process or instantly view the solution.  
+## 🪄 EN - Description
+**Magic Square** in Python is a simulation of a fascinating mathematical puzzle. The program automatically generates a Magic Square where the sum of numbers in each row, column, and diagonal is equal.  
+✨ **Features**:  
+- Choose the size of the square (e.g., 3x3, 4x4).  
+- Automatic generation with step-by-step display.  
+- Perfect for stimulating the mind and exploring Magic Square logic.
+
+Happy puzzling! 😊
 
 
