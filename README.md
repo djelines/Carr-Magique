@@ -10,6 +10,7 @@ Le **Carré Magique** en Python est une simulation d'un puzzle mathématique cap
 
 ## EN - Description
 **Magic Square** in Python is a simulation of a fascinating mathematical puzzle. The program allows you to fill a square grid with numbers so that, if you are lucky, the sum of the numbers in each row, column and diagonal is equal.
+
 **Features**:  
 - Choose the size of the square (e.g., 3x3, 4x4).  
 - Interactive solving with step-by-step display.  
